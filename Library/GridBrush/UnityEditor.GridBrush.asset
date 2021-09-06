@@ -3,7 +3,7 @@
 --- !u!114 &1
 MonoBehaviour:
   m_ObjectHideFlags: 52
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Default Brush
   m_EditorClassIdentifier: 
   m_Cells:
-  - m_Tile: {fileID: 11400000, guid: c51b542d5bd6742f1bf8ad032d24e092, type: 2}
+  - m_Tile: {fileID: 11400000, guid: 7d824f1adb7c64d299dc2694dcc2637c, type: 2}
     m_Matrix:
       e00: 1
       e01: 0
